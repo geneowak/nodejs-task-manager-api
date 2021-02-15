@@ -1,4 +1,5 @@
 node_modules
 .env
-sendgrid.env
+.env.test
 config
+*.local
